@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+[![Pickle Rick](https://img.youtube.com/vi/tZp8sY06Qoc/0.jpg)](https://www.youtube.com/watch?v=tZp8sY06Qoc)
